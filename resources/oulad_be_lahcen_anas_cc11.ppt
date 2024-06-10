@@ -1,0 +1,119 @@
+titre : S'inscrire en ligne
+
+Acteur principal : candidat
+
+Acteur secondaire : Système
+
+cas d'utilisation : 
+
+le candidat peut s'inscrire en ligne pour voir les informations nécessaires
+le system voir les suject disponible
+le candidat choisire le suject 
+le system donne le limite de 3 suject selectionne 
+le candidat voir les entretient oraux organiser par le prof responsable
+le system envoiyer le resultat de entretient
+le candidat peut demande de bourse 
+
+
+cas d'erreur:
+
+le problem de reseaux
+le problem de pas trouver le candidat
+
+
+
+
+
+
+titre : deposition des suject
+
+Acteur principal : professeur
+
+Acteur secondaire : Système
+
+cas d'utilisation : 
+
+le prof s'inscrire au site
+le system verification si le prof est existe
+le prof depose les sujects
+le system ajoute les list des convoque aux entretiens oraux est etablir par CED
+
+
+cas d'erreur:
+
+les nombre de jury d'une sujet et plein
+
+
+
+titre : 
+
+Acteur principal : CED
+
+Acteur secondaire : Système
+
+cas d'utilisation : 
+
+CED inscrire au site
+le system accepter inscription
+CED peux recherche des etablisement
+le system voir le etablisement disponible
+le CED charge d'affichege le planning de preinscription des candidat en ligne
+le system voir le candidat qui sont partisiper
+
+
+cas d'erreur:
+
+le etablisement ne pas disponible
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
